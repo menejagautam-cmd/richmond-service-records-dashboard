@@ -2,7 +2,7 @@
 
 Interactive dashboard analyzing 5,000+ community service requests across 20 Richmond, VA neighborhoods. Built with Python, pandas, and Plotly.
 
-**[View Live Dashboard](https://menejagautam-cmd.github.io/richmond-civic-dashboard/richmond_civic_dashboard.html)**
+**[View Live Dashboard](https://menejagautam-cmd.github.io/richmond-service-records-dashboard/richmond_civic_dashboard.html)**
 
 ## Dashboard Pages
 
